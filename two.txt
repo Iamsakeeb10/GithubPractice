@@ -1,2 +1,4 @@
  
 This is two.txt file
+
+Merging will be continued...
